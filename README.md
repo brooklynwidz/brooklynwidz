@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🕶️ Terminal is My Playground
 
-<!--
-**brooklynwidz/brooklynwidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I don’t code for fun.  
+> I code to understand the system — and then bend it.
 
-Here are some ideas to get you started:
+From crafting chat apps that whisper over sockets  
+to rebuilding Netcat, byte by byte.  
+I speak TCP. I dream in ports. I debug in real time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👾 What I Do
+
+- 💻 Build terminal-based tools  
+- 🧠 Reprogram logic, not just code  
+- 🛠️ Weaponize Git and Python  
+- 🕸️ Reverse-engineer behavior  
+- 📡 Listen on ports most ignore
+
+---
+
+### 📟 Tools of Choice
+
+```bash
+> Python3
+> socket, threading, tkinter
+> Git (armed at all times)
+> Netcat (reimagined)
