@@ -13,7 +13,7 @@ I speak TCP. I dream in ports. I debug in real time.
 
 - 💻 Build terminal-based tools  
 - 🧠 Reprogram logic, not just code  
-- 🛠️ Weaponize Git and Python  
+- 🛠️ Git and Python  
 - 🕸️ Reverse-engineer behavior  
 - 📡 Listen on ports most ignore
 
