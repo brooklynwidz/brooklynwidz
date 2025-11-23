@@ -16,6 +16,7 @@ I speak TCP. I dream in ports. I debug in real time.
 - 🛠️ Git and Python  
 - 🕸️ Reverse-engineer behavior  
 - 📡 Listen on ports most ignore
+- 🏹 C socket done
 
 ---
 
