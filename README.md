@@ -52,26 +52,3 @@
 
 ---
 
-###  Contribution Snake ->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/brooklynwidz/brooklynwidz/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-###  Currently Listening To 
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=uuivgxoih2awxccn9liuoymm&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" />
-</p>
-
----
-
-###  Visitors ->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brooklynwidz&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
