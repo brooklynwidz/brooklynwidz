@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Brooklyn 👋</h1>
 
 <p align="center">
   Computer Science Student • C++ • Python • DSA
