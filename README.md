@@ -5,8 +5,11 @@
 </p>
 
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Brooklyn;Computer+Science+Student;C%2B%2B+%7C+Python+%7C+DSA;Building+software+and+solving+problems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Brooklyn" />
+</p>
+
 
 
 
